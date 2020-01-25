@@ -4,7 +4,9 @@ Deploy a static website to AWS using S3, IAM and CloudFront.
 
 ## CloudFront endpoint
 
-[d2yd3iqe1xnz2m.cloudfront.net](d2yd3iqe1xnz2m.cloudfront.net)
+[~~d2yd3iqe1xnz2m.cloudfront.net~~](d2yd3iqe1xnz2m.cloudfront.net) - no longer active
+
+Published website available [here](https://maweeks.github.io/nano-devops-01).
 
 ## Steps / Proof
 
